@@ -24,4 +24,4 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      uses: gh-bot/issue-merge-labeler@v0.1.0
+      uses: gh-bot/issue-merge-labeler@master
