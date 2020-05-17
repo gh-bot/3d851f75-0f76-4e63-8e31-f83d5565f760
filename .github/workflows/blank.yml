@@ -26,6 +26,6 @@ jobs:
         
     # Runs a single command using the runners shell
     - name: Run an action
-      uses: gh-bot/issue-merge-labeler@master
+      uses: gh-bot/issue-merge-labeler@v1
  
  
